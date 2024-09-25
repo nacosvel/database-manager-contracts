@@ -11,7 +11,7 @@
 You can install the package via [Composer](https://getcomposer.org/):
 
 ```bash
-composer require nacosvel/database-manager-database-manager-contracts
+composer require nacosvel/database-manager-contracts
 ```
 
 > See [README.md](https://github.com/nacosvel/contracts/blob/main/README.md) for more information.
