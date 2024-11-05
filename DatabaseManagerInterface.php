@@ -29,7 +29,7 @@ interface DatabaseManagerInterface
      *
      * @return mixed
      */
-    public function connection(string $name = null): mixed;
+    // public function connection(string $name = null): mixed;
 
     /**
      * Set the default database connection for the callback execution.
@@ -39,6 +39,6 @@ interface DatabaseManagerInterface
      *
      * @return mixed
      */
-    public function usingConnection(string $name, callable $callback): mixed;
+    // public function usingConnection(string $name, callable $callback): mixed;
 
 }
