@@ -2,7 +2,7 @@
 
 namespace Nacosvel\Contracts\DatabaseManager;
 
-class Response
+abstract class Response
 {
     /**
      * @param int    $code
